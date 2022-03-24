@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "UnicornPlaceHolder",
-    "path": "sprites/UnicornPlaceHolder/UnicornPlaceHolder.yy",
+    "name": "sprite_player",
+    "path": "sprites/sprite_player/sprite_player.yy",
   },
   "solid": false,
   "visible": true,
