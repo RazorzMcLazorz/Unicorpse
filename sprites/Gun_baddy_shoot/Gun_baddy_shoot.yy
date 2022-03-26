@@ -1,0 +1,167 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 0,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 2,
+  "bbox_right": 61,
+  "bbox_top": 9,
+  "bbox_bottom": 60,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 64,
+  "height": 64,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"4c9ce3bc-f24d-4d36-bef5-efb00b912454","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4c9ce3bc-f24d-4d36-bef5-efb00b912454","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"4c9ce3bc-f24d-4d36-bef5-efb00b912454","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2fa7058e-20ea-4388-aa2e-1de48dc4d990","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2fa7058e-20ea-4388-aa2e-1de48dc4d990","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"2fa7058e-20ea-4388-aa2e-1de48dc4d990","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d3192e7d-2cd4-4f58-bc48-460283108d3a","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d3192e7d-2cd4-4f58-bc48-460283108d3a","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"d3192e7d-2cd4-4f58-bc48-460283108d3a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"11990cf7-f26f-41c1-abe3-1d3aaf2e1ae2","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"11990cf7-f26f-41c1-abe3-1d3aaf2e1ae2","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"11990cf7-f26f-41c1-abe3-1d3aaf2e1ae2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0bf5a29f-b57c-4cbb-b4a1-5775a56d7e5e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0bf5a29f-b57c-4cbb-b4a1-5775a56d7e5e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"0bf5a29f-b57c-4cbb-b4a1-5775a56d7e5e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0bc19a31-1c9d-45c9-8a98-300ff0945a49","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0bc19a31-1c9d-45c9-8a98-300ff0945a49","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"0bc19a31-1c9d-45c9-8a98-300ff0945a49","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6fa7964c-06f9-46d1-aa5f-4bfa68e7c8e8","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6fa7964c-06f9-46d1-aa5f-4bfa68e7c8e8","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"6fa7964c-06f9-46d1-aa5f-4bfa68e7c8e8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"92be83d1-1605-47ce-a10a-b9a69c722e8e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"92be83d1-1605-47ce-a10a-b9a69c722e8e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"92be83d1-1605-47ce-a10a-b9a69c722e8e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2beb3a1c-5fa6-49a4-8bd2-b5bdbe60e7d5","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2beb3a1c-5fa6-49a4-8bd2-b5bdbe60e7d5","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"2beb3a1c-5fa6-49a4-8bd2-b5bdbe60e7d5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6f46ca02-2e7f-4ce7-b7dd-e998565090fb","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6f46ca02-2e7f-4ce7-b7dd-e998565090fb","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"6f46ca02-2e7f-4ce7-b7dd-e998565090fb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0e428df5-8697-4eea-961d-106b271ffae5","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0e428df5-8697-4eea-961d-106b271ffae5","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"0e428df5-8697-4eea-961d-106b271ffae5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ca19fa87-7fb0-4210-a142-07979543af74","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ca19fa87-7fb0-4210-a142-07979543af74","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"ca19fa87-7fb0-4210-a142-07979543af74","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d65f87f3-18a4-4b89-8aa0-4f4e78dadffd","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d65f87f3-18a4-4b89-8aa0-4f4e78dadffd","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"d65f87f3-18a4-4b89-8aa0-4f4e78dadffd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cf371270-462e-43f9-90cd-6e35605ea103","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cf371270-462e-43f9-90cd-6e35605ea103","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"cf371270-462e-43f9-90cd-6e35605ea103","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"653a883a-07fe-43b8-878d-9dccd432cfe0","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"653a883a-07fe-43b8-878d-9dccd432cfe0","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"653a883a-07fe-43b8-878d-9dccd432cfe0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f926a4b5-ff0b-4c40-8326-01311ee4c474","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f926a4b5-ff0b-4c40-8326-01311ee4c474","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"f926a4b5-ff0b-4c40-8326-01311ee4c474","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"675bca53-c35c-4152-9e67-d66fd321028e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"675bca53-c35c-4152-9e67-d66fd321028e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"675bca53-c35c-4152-9e67-d66fd321028e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cd90af07-90a0-438b-8698-ca68cf92714b","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cd90af07-90a0-438b-8698-ca68cf92714b","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"cd90af07-90a0-438b-8698-ca68cf92714b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3ba7abf7-578d-454a-a09f-b3cc04554401","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3ba7abf7-578d-454a-a09f-b3cc04554401","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"3ba7abf7-578d-454a-a09f-b3cc04554401","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2754cee0-0cd7-48c7-8eb3-e3e3e37fff83","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2754cee0-0cd7-48c7-8eb3-e3e3e37fff83","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"2754cee0-0cd7-48c7-8eb3-e3e3e37fff83","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f169503e-0eaa-40b2-be55-d3eeb1b4a04b","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f169503e-0eaa-40b2-be55-d3eeb1b4a04b","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"f169503e-0eaa-40b2-be55-d3eeb1b4a04b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"eeb1629b-f537-4147-b209-a68d13ba4a71","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eeb1629b-f537-4147-b209-a68d13ba4a71","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"eeb1629b-f537-4147-b209-a68d13ba4a71","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aa8212bf-9727-4165-bb3b-1127a91d5e74","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aa8212bf-9727-4165-bb3b-1127a91d5e74","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"LayerId":{"name":"67fb452e-588e-43b6-aa09-1c7af3a77464","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","name":"aa8212bf-9727-4165-bb3b-1127a91d5e74","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 30.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 23.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"1a7d1591-e04d-4ba6-bd1d-273e07602c5d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4c9ce3bc-f24d-4d36-bef5-efb00b912454","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"da802fd1-c1c5-401f-8275-de1dd5663a0d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2fa7058e-20ea-4388-aa2e-1de48dc4d990","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8ec46db5-4384-4495-be75-72a152fccddd","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d3192e7d-2cd4-4f58-bc48-460283108d3a","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"318f7aa7-d33b-4444-a3b4-ab70321c5765","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"11990cf7-f26f-41c1-abe3-1d3aaf2e1ae2","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"94daa1a2-7f90-4adc-8653-f6ae953d6925","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0bf5a29f-b57c-4cbb-b4a1-5775a56d7e5e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0128effc-0b90-46b0-9f56-423a767df47e","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0bc19a31-1c9d-45c9-8a98-300ff0945a49","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d2958706-dc17-4bfe-b1ba-b59c23ddf283","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6fa7964c-06f9-46d1-aa5f-4bfa68e7c8e8","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"70588d53-73d5-4f30-9422-1ce0e5bb3aec","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"92be83d1-1605-47ce-a10a-b9a69c722e8e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f5004625-c4e8-43fc-976e-a1077da4019f","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2beb3a1c-5fa6-49a4-8bd2-b5bdbe60e7d5","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8f404344-8603-4943-b3ea-d52e60320857","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6f46ca02-2e7f-4ce7-b7dd-e998565090fb","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"febfe212-ec40-4d8b-9ed5-41c68c1acad1","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0e428df5-8697-4eea-961d-106b271ffae5","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4ead0624-76f8-4f67-a7b1-48d69d17a0ca","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ca19fa87-7fb0-4210-a142-07979543af74","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"46df3c5c-a8bc-4cdf-87d4-ca9e80c9bf0f","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d65f87f3-18a4-4b89-8aa0-4f4e78dadffd","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7e3f183f-cec8-4a64-a576-13041264ac76","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cf371270-462e-43f9-90cd-6e35605ea103","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"13e86a7e-9aaa-4f47-8514-6ef6802493eb","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"653a883a-07fe-43b8-878d-9dccd432cfe0","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"53e76c34-2853-45a4-924b-d268a6c7d66e","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f926a4b5-ff0b-4c40-8326-01311ee4c474","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5c1f06c6-5e38-4e92-a0f4-80148324e96e","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"675bca53-c35c-4152-9e67-d66fd321028e","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6f3f970d-e9cd-4265-95da-33f953146c6d","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cd90af07-90a0-438b-8698-ca68cf92714b","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"79e81f1e-8a4a-444c-aab3-50a8c7cabcaf","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3ba7abf7-578d-454a-a09f-b3cc04554401","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"afc5f764-6afc-4d2f-951f-a1d1f7993584","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2754cee0-0cd7-48c7-8eb3-e3e3e37fff83","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6a252398-f47e-421f-8196-4a3cec23f862","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f169503e-0eaa-40b2-be55-d3eeb1b4a04b","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"43d6806a-ad85-4fad-b84b-2ea528b1f64c","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eeb1629b-f537-4147-b209-a68d13ba4a71","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"30b30013-ac9e-4f87-8002-4693c2bd5d05","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aa8212bf-9727-4165-bb3b-1127a91d5e74","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 0,
+    "yorigin": 0,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"Gun_baddy_shoot","path":"sprites/Gun_baddy_shoot/Gun_baddy_shoot.yy",},
+    "resourceVersion": "1.4",
+    "name": "Gun_baddy_shoot",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"67fb452e-588e-43b6-aa09-1c7af3a77464","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Gun_baddys",
+    "path": "folders/Sprites/Baddys/Gun_baddys.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "Gun_baddy_shoot",
+  "tags": [],
+  "resourceType": "GMSprite",
+}
