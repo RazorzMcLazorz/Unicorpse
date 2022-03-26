@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "name": "background",
+    "path": "folders/Tile Sets/background.yy",
   },
   "resourceVersion": "1.0",
   "name": "Unicorpse_Background",
